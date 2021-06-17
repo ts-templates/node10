@@ -1,5 +1,5 @@
 {
-  "extends": "@tsconfig/node12/tsconfig",
+  "extends": "@tsconfig/node10/tsconfig",
   "compilerOptions": {
     "types": [
       "node",
