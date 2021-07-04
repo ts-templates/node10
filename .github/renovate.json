@@ -1,5 +1,10 @@
 {
   "extends": [
     "config:base"
-  ]
+  ],
+  "force": {
+    "constraints": {
+      "node": "10.17.0"
+    }
+  }
 }
