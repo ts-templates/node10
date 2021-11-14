@@ -10,6 +10,10 @@
   },
   "packageRules": [
     {
+      "matchPackageNames": ["@typescript-eslint/eslint-plugin"],
+      "allowedVersions": "<5"
+    },
+    {
       "matchPackageNames": ["eslint"],
       "allowedVersions": "<8"
     },
@@ -22,8 +26,8 @@
       "allowedVersions": "<11.2"
     },
     {
-      "matchPackageNames": ["@typescript-eslint/eslint-plugin"],
-      "allowedVersions": "<5"
+      "matchPackageNames": ["node"],
+      "allowedVersions": "<11"
     },
     {
       "matchPackageNames": ["ts-node"],
