@@ -10,6 +10,10 @@
   },
   "packageRules": [
     {
+      "matchPackageNames": ["eslint"],
+      "allowedVersions": "<8"
+    },
+    {
       "matchPackageNames": ["lint-staged"],
       "allowedVersions": "<11.2"
     },
