@@ -10,7 +10,7 @@
   },
   "packageRules": [
     {
-      // ts-node v10 drop support Node.js v10
+      // ts-node v10 dropped support for Node.js v10
       // https://github.com/TypeStrong/ts-node/releases/tag/v10.0.0
       "matchPackageNames": ["ts-node"],
       "allowedVersions": "<10"
