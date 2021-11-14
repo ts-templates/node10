@@ -14,6 +14,10 @@
       "allowedVersions": "<8"
     },
     {
+      "matchPackageNames": ["eslint-plugin-jest"],
+      "allowedVersions": "<25"
+    },
+    {
       "matchPackageNames": ["lint-staged"],
       "allowedVersions": "<11.2"
     },
