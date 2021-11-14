@@ -26,6 +26,10 @@
       "allowedVersions": "<25"
     },
     {
+      "matchPackageNames": ["husky"],
+      "allowedVersions": "<7"
+    },
+    {
       "matchPackageNames": ["lint-staged"],
       "allowedVersions": "<11.2"
     },
