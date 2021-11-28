@@ -1,6 +1,6 @@
 {
   "name": "@ts-templates/node10",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Template for TypeScript project using Node.js v10",
   "private": true,
   "scripts": {
