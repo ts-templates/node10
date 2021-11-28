@@ -16,7 +16,7 @@ Template for TypeScript project using Node.js v10
 
 ## Usage
 
-1. [Create repository](https://github.com/ts-templates/node14/generate) using template
+1. [Create repository](https://github.com/ts-templates/node10/generate) using template
 2. Replace provisional string with actual string
     - `@ts-templates/node10` => your package name
     - `Template for TypeScript project using Node.js v10` => your package description
