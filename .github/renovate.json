@@ -25,6 +25,10 @@
       "allowedVersions": "<25"
     },
     {
+      "matchPackageNames": ["eslint-plugin-promise"],
+      "allowedVersions": "<6"
+    },
+    {
       "matchPackageNames": ["husky"],
       "allowedVersions": "<7"
     },
