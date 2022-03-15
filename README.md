@@ -1,4 +1,6 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+![eslint](https://github.com/ts-templates/node10/actions/workflows/eslint.yml/badge.svg)
+![test](https://github.com/ts-templates/node10/actions/workflows/test.yml/badge.svg)
 
 # @ts-templates/node10
 
