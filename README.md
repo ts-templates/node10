@@ -1,6 +1,6 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-![eslint](https://github.com/ts-templates/node10/actions/workflows/eslint.yml/badge.svg)
-![test](https://github.com/ts-templates/node10/actions/workflows/test.yml/badge.svg)
+[![eslint](https://github.com/ts-templates/node10/actions/workflows/eslint.yml/badge.svg)](https://github.com/ts-templates/node10/actions/workflows/eslint.yml)
+[![test](https://github.com/ts-templates/node10/actions/workflows/test.yml/badge.svg)](https://github.com/ts-templates/node10/actions/workflows/test.yml)
 
 # @ts-templates/node10
 
@@ -20,6 +20,7 @@ Template for TypeScript project using Node.js v10
 
 1. [Create repository](https://github.com/ts-templates/node10/generate) using template
 2. Replace provisional string with actual string
+    - `https://github.com/ts-templates/node10` => your repository URL
     - `@ts-templates/node10` => your package name
     - `Template for TypeScript project using Node.js v10` => your package description
 3. Implement `src/main.ts`
