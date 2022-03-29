@@ -45,5 +45,6 @@
       "matchPackageNames": ["ts-node"],
       "allowedVersions": "<10"
     }
-  ]
+  ],
+  "separateMultipleMajor": true
 }
