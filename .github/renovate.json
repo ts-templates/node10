@@ -1,6 +1,6 @@
 {
   "extends": [
-    "config:base"
+    "github>ts-templates/renovate-config"
   ],
   "force": {
     "constraints": {
@@ -45,6 +45,5 @@
       "matchPackageNames": ["ts-node"],
       "allowedVersions": "<10"
     }
-  ],
-  "separateMultipleMajor": true
+  ]
 }
