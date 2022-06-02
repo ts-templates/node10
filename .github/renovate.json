@@ -10,6 +10,14 @@
   "labels": ["renovate"],
   "packageRules": [
     {
+      "matchPackageNames": ["@jest/types"],
+      "allowedVersions": "<28"
+    },
+    {
+      "matchPackageNames": ["@types/jest"],
+      "allowedVersions": "<28"
+    },
+    {
       "matchPackageNames": ["@types/node"],
       "allowedVersions": "<11"
     },
@@ -34,12 +42,20 @@
       "allowedVersions": "<7"
     },
     {
+      "matchPackageNames": ["jest"],
+      "allowedVersions": "<28"
+    },
+    {
       "matchPackageNames": ["lint-staged"],
       "allowedVersions": "<11.2"
     },
     {
       "matchPackageNames": ["node"],
       "allowedVersions": "<11"
+    },
+    {
+      "matchPackageNames": ["ts-jest"],
+      "allowedVersions": "<28"
     },
     {
       "matchPackageNames": ["ts-node"],
